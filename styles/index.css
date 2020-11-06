@@ -1,0 +1,22 @@
+﻿@font-face {
+    font-family: sfpro;
+    src: url(fonts/sfpro.ttf);
+}
+body {
+    background-color: #EEEEEE;
+    font-family: sfpro;
+}
+
+.hdg {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    font-size: 36px;
+}
+
+.pswdDiv, .button {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding-top: 20px;
+}
